@@ -17,7 +17,7 @@ order_json = {
 #         self.item_id = item_id
 #         self.created_date = created_date
 #         self.pages_visited = pages_visited
-#         self.price = price
+#         self.price = pricedateutil
 #
 #     def __str__(self):
 #         return str(self.__dict__)
