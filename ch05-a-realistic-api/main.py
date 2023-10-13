@@ -1,10 +1,9 @@
-import json
-from pathlib import Path
-
 import fastapi
 import uvicorn
-from starlette.staticfiles import StaticFiles
+import json
 
+from pathlib import Path
+from starlette.staticfiles import StaticFiles
 from api import weather_api
 from services import openweather_service
 from views import home
