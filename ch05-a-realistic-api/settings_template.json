@@ -1,4 +1,4 @@
 {
-  "api_key": "4f0f17fd7f9159f8dd0505f97d57df4a",
+  "api_key": "your openweathermap api_key goes in here",
   "action": "copy this to settings.json with real values."
 }
