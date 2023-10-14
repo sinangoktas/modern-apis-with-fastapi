@@ -1,5 +1,5 @@
 fastapi
-uvicorn
+uvicorn==0.23.2
 httpx
 jinja2
-aiofiles
+aiofiles==23.2.1
